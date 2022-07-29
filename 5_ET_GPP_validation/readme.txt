@@ -1,0 +1,1 @@
+1-We used FLUXNET data to assess the quality of the MODIS GPP and ET products. We compared the monthly GPP and ET values of FLUNEXT data retrieved in the second section (2-tower_data_processing) and the MODIS values retrieved using the coordinates of the tower's locations. We used the point extraction tool from QGIS. 
