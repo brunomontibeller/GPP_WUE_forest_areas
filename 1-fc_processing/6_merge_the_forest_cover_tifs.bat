@@ -1,0 +1,1 @@
+gdalwarp --optfile list_fd.txt fc_europe_2020.tif -co compress=LZW -ot UInt16
