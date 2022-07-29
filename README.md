@@ -1,5 +1,5 @@
 # GPP balance and WUE trends over unchanged forest core in Europe
-Codes used in the analysis of GPP balance and WUE trends over unchanged forest core areas over Europe. 
+Codes used in the analysis of GPP balance and WUE trends over unchanged forest core areas in Europe. 
 
 The codes are listed in the sequence that they were used in the analysis (from pre-processing of input data to making the figures).
 
